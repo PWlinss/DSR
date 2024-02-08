@@ -1,0 +1,30 @@
+2023-10-07 19:22:42.325 [info] [Info  - 19:22:42] (6613) Pylance language server 2023.10.10 (pyright 45942a15) starting
+2023-10-07 19:22:42.325 [info] [Info  - 19:22:42] (6613) Server root directory: /home/petril/.vscode/extensions/ms-python.vscode-pylance-2023.10.10/dist
+2023-10-07 19:22:42.330 [info] [Info  - 19:22:42] (6613) Starting service instance "BSRN"
+2023-10-07 19:22:42.381 [info] [Info  - 19:22:42] (6613) Setting pythonPath for service "BSRN": "/home/petril/anaconda3/bin/python"
+2023-10-07 19:22:42.381 [info] [Info  - 19:22:42] (6613) Setting environmentName for service "BSRN": "3.11.4 (base conda)"
+2023-10-07 19:22:42.387 [info] [Warn  - 19:22:42] (6613) stubPath /home/petril/桌面/SuperResolution/BSRN/BSRN/typings is not a valid directory.
+2023-10-07 19:22:42.419 [info] [Info  - 19:22:42] (6613) Assuming Python version 3.11
+2023-10-07 19:22:42.552 [info] [Info  - 19:22:42] (6613) Found 101 source files
+2023-10-07 19:22:56.818 [info] [Info  - 19:22:56] (6613) [BG(1)] Long operation: checking: /home/petril/桌面/SuperResolution/BSRN/BSRN/test.ipynb:pylance-notebook-cell:W2sZmlsZQ==.py (2157ms)
+2023-10-07 19:22:56.818 [info] [Info  - 19:22:56] (6613) [BG(1)] Long operation: analyzing: /home/petril/桌面/SuperResolution/BSRN/BSRN/test.ipynb:pylance-notebook-cell:W2sZmlsZQ==.py (2157ms)
+2023-10-07 19:22:56.862 [info] [Info  - 19:22:56] (6613) [BG(1)] Long operation: analyzing: /home/petril/桌面/SuperResolution/BSRN/BSRN/test.ipynb:pylance-notebook-cell:pylancePrefixCell.py (2400ms)
+2023-10-07 19:22:57.062 [info] [Info  - 19:22:57] (6613) [IDX(2)] Long operation: scan packages /home/petril/桌面/SuperResolution/BSRN/BSRN (2147ms)
+2023-10-07 19:23:05.504 [info] [Info  - 19:23:05] (6613) [IDX(2)] Long operation: indexing: /home/petril/.vscode/extensions/ms-python.vscode-pylance-2023.10.10/dist/bundled/stubs/pandas/__init__.pyi (3241ms)
+2023-10-07 19:23:38.751 [info] [Info  - 19:23:38] (6613) [IDX(2)] Long operation: indexing: /home/petril/anaconda3/lib/python3.11/site-packages/sympy/__init__.py (5543ms)
+2023-10-07 19:23:40.961 [info] [Info  - 19:23:40] (6613) [IDX(2)] Long operation: index execution environment /home/petril/桌面/SuperResolution/BSRN/BSRN (43825ms)
+2023-10-07 19:23:40.973 [info] [Info  - 19:23:40] (6613) [IDX(2)] Long operation: index packages /home/petril/桌面/SuperResolution/BSRN/BSRN (43841ms)
+2023-10-07 20:16:25.234 [info] [Info  - 20:16:25] (6613) Setting pythonPath for service "BSRN": "/home/petril/anaconda3/bin/python"
+2023-10-07 20:16:25.234 [info] [Info  - 20:16:25] (6613) Setting environmentName for service "BSRN": "3.11.4 (base conda)"
+2023-10-07 20:16:25.237 [info] [Warn  - 20:16:25] (6613) stubPath /home/petril/桌面/SuperResolution/BSRN/BSRN/typings is not a valid directory.
+2023-10-07 20:16:25.322 [info] [Info  - 20:16:25] (6613) Assuming Python version 3.11
+2023-10-07 20:16:25.468 [info] [Info  - 20:16:25] (6613) Found 106 source files
+2023-10-07 20:16:30.874 [info] [Info  - 20:16:30] (6613) [IDX(3)] Long operation: index execution environment /home/petril/桌面/SuperResolution/BSRN/BSRN (4291ms)
+2023-10-07 20:16:30.874 [info] [Info  - 20:16:30] (6613) [IDX(3)] Long operation: index packages /home/petril/桌面/SuperResolution/BSRN/BSRN (4308ms)
+2023-10-07 20:16:33.127 [info] [Info  - 20:16:33] (6613) Setting pythonPath for service "BSRN": "/home/petril/anaconda3/bin/python"
+2023-10-07 20:16:33.127 [info] [Info  - 20:16:33] (6613) Setting environmentName for service "BSRN": "3.11.4 (base conda)"
+2023-10-07 20:16:33.127 [info] [Warn  - 20:16:33] (6613) stubPath /home/petril/桌面/SuperResolution/BSRN/BSRN/typings is not a valid directory.
+2023-10-07 20:16:33.174 [info] [Info  - 20:16:33] (6613) Assuming Python version 3.11
+2023-10-07 20:16:33.307 [info] [Info  - 20:16:33] (6613) Found 106 source files
+2023-10-07 20:16:38.691 [info] [Info  - 20:16:38] (6613) [IDX(4)] Long operation: index execution environment /home/petril/桌面/SuperResolution/BSRN/BSRN (4257ms)
+2023-10-07 20:16:38.691 [info] [Info  - 20:16:38] (6613) [IDX(4)] Long operation: index packages /home/petril/桌面/SuperResolution/BSRN/BSRN (4282ms)

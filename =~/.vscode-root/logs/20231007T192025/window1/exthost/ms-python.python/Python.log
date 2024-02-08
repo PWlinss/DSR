@@ -1,0 +1,19 @@
+2023-10-07 19:20:29.160 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-10-07 19:20:29.160 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-10-07 19:20:29.160 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2023-10-07 19:20:29.207 [info] Test server listening.
+2023-10-07 19:20:29.274 [info] > conda info --json
+2023-10-07 19:20:29.275 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-07 19:20:29.275 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-07 19:20:29.275 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-07 19:20:30.323 [info] > ~/anaconda3/bin/python -I ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-07 19:20:30.394 [info] > conda config --get auto_activate_base
+2023-10-07 19:20:30.427 [info] > python -c "import sys;print(sys.executable)"
+2023-10-07 19:20:32.732 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-10-07 19:20:32.732 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-10-07 19:20:32.732 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2023-10-07 19:20:32.767 [info] Test server listening.
+2023-10-07 19:20:32.798 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-07 19:20:32.811 [info] Python interpreter path: ~/anaconda3/bin/python
+2023-10-07 19:20:32.819 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-07 19:20:34.286 [info] Starting Pylance language server.

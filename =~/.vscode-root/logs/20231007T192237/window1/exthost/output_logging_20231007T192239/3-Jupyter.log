@@ -1,0 +1,15 @@
+Visual Studio Code (1.83.0, undefined, desktop)
+Jupyter Extension Version: 2023.9.1102792234.
+Python Extension Version: 2023.18.0.
+Platform: linux (x64).
+Workspace folder ~/桌面/SuperResolution/BSRN/BSRN, Home = /home/petril
+19:22:55.281 [info] 用户属于试验组 "NewJupyterSession"
+19:22:55.644 [info] Start refreshing Kernel Picker (1696677775644)
+19:22:55.651 [info] Using Pylance
+19:22:55.769 [info] Process Execution: /jupyter notebook --version
+19:22:55.784 [info] Process Execution: /jupyter lab --version
+19:22:56.701 [info] End refreshing Kernel Picker (1696677775644)
+19:22:56.990 [info] Process Execution: ~/anaconda3/bin/python -m pip list
+19:23:03.193 [info] Start refreshing Interpreter Kernel Picker
+19:23:03.193 [info] Start refreshing Kernel Picker (1696677783193)
+19:23:09.979 [info] End refreshing Kernel Picker (1696677783193)

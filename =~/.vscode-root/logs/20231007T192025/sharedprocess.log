@@ -1,0 +1,17 @@
+2023-10-07 19:22:30.164 [info] Uninstalling extension from the profile: ms-ceintl.vscode-language-pack-zh-hans@1.83.2023100409 vscode-userdata:/home/petril/.vscode/extensions/extensions.json
+2023-10-07 19:22:30.394 [info] Removing language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+2023-10-07 19:22:30.443 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-zh-hans-1.83.2023100409
+2023-10-07 19:22:31.120 [info] Successfully uninstalled extension from the profile ms-ceintl.vscode-language-pack-zh-hans@1.83.2023100409 vscode-userdata:/home/petril/.vscode/extensions/extensions.json
+2023-10-07 19:22:32.090 [info] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hans
+2023-10-07 19:22:32.246 [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans
+2023-10-07 19:22:34.630 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-zh-hans
+2023-10-07 19:22:34.637 [info] Removed the extension from uninstalled list: ms-ceintl.vscode-language-pack-zh-hans
+2023-10-07 19:22:34.709 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+2023-10-07 19:22:34.754 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/petril/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/petril/.vscode/extensions/extensions.json.vsctmp'
+    at s.create (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.eb (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35625)
+    at t.stat (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)
+2023-10-07 19:22:34.819 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hans

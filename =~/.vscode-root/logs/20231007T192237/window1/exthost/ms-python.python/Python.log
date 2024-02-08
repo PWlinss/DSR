@@ -1,0 +1,32 @@
+2023-10-07 19:22:40.264 [info] 试验“pythonPromptNewFormatterExt”处于活动状态
+2023-10-07 19:22:40.264 [info] 试验“pythonPromptNewToolsExt”处于活动状态
+2023-10-07 19:22:40.264 [info] 试验“pythonTerminalEnvVarActivationcf”处于活动状态
+2023-10-07 19:22:40.264 [info] Test server listening.
+2023-10-07 19:22:40.264 [info] > conda info --json
+2023-10-07 19:22:40.652 [info] > python -c "import sys;print(sys.executable)"
+2023-10-07 19:22:40.681 [info] Python 解释器路径: ~/anaconda3/bin/python
+2023-10-07 19:22:41.307 [info] > conda config --get auto_activate_base
+2023-10-07 19:22:42.347 [info] 正在启动 Pylance 语言服务器。
+2023-10-07 19:22:45.612 [info] Discover tests for workspace name: undefined - uri: /home/petril/桌面/SuperResolution/BSRN/BSRN/=~/.vscode-root/User/settings.json
+2023-10-07 19:22:49.869 [info] Discover tests for workspace name: undefined - uri: /home/petril/桌面/SuperResolution/BSRN/BSRN/=~/.vscode-root/User/settings.json
+2023-10-07 19:22:55.859 [info] > conda run -n base --no-capture-output python ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/printEnvVariables.py
+2023-10-07 19:22:55.859 [info] shell: bash
+2023-10-07 19:23:03.208 [info] Found: /bin/python3 --> /bin/python3.8
+2023-10-07 19:23:03.208 [info] Found: /bin/python3.8 --> /bin/python3.8
+2023-10-07 19:23:03.224 [info] > ~/anaconda3/bin/python -I ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-07 19:23:03.235 [info] Found: /usr/bin/python3 --> /usr/bin/python3.8
+2023-10-07 19:23:03.236 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2023-10-07 19:23:03.544 [info] Found: /home/petril/anaconda3/bin/python --> /home/petril/anaconda3/bin/python3.11
+2023-10-07 19:23:03.545 [info] Found: /home/petril/anaconda3/bin/python3 --> /home/petril/anaconda3/bin/python3.11
+2023-10-07 19:23:03.545 [info] Found: /home/petril/anaconda3/bin/python3.1 --> /home/petril/anaconda3/bin/python3.11
+2023-10-07 19:23:03.545 [info] Found: /home/petril/anaconda3/bin/python3.11 --> /home/petril/anaconda3/bin/python3.11
+2023-10-07 19:23:03.568 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-07 19:23:03.605 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-07 19:23:03.714 [info] > ~/anaconda3/envs/Test/bin/python -I ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-07 20:16:25.619 [info] Discover tests for workspace name: undefined - uri: /home/petril/桌面/SuperResolution/BSRN/BSRN/=~/.vscode-root/User/settings.json
+2023-10-07 20:16:33.300 [info] Discover tests for workspace name: undefined - uri: /home/petril/桌面/SuperResolution/BSRN/BSRN/=~/.vscode-root/User/settings.json
+2023-10-07 20:16:33.564 [info] Discover tests for workspace name: undefined - uri: /home/petril/桌面/SuperResolution/BSRN/BSRN/=~/.vscode-root/User/settings.json
+2023-10-07 20:35:27.091 [info] Discover tests for workspace name: BSRN - uri: /home/petril/桌面/SuperResolution/BSRN/BSRN/basicsr/archs/BSRN_arch.py
+2023-10-07 21:51:02.969 [info] Discover tests for workspace name: BSRN - uri: /home/petril/桌面/SuperResolution/BSRN/BSRN/basicsr/archs/BSRN_arch.py
+2023-10-07 23:15:27.297 [info] Discover tests for workspace name: BSRN - uri: /home/petril/桌面/SuperResolution/BSRN/BSRN/basicsr/archs/BSRN_arch.py
+2023-10-07 23:17:21.211 [info] Discover tests for workspace name: BSRN - uri: /home/petril/桌面/SuperResolution/BSRN/BSRN/basicsr/archs/BSRN_arch.py
